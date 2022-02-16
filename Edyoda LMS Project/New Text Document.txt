@@ -1,0 +1,14 @@
+Edyoda Learning managment system
+
+1) create Database using Mysql
+  table name 
+    users
+    Modules
+    units
+  
+
+   Create table to store delete update all information in LMS
+   
+
+ 
+
